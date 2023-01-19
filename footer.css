@@ -1,0 +1,21 @@
+.footer-bar {
+    background-color: rgb(14, 14, 17);
+    color: rgb(245, 239, 239);
+    justify-content: center;
+    height: 50px;
+    margin: 0;
+    display: flex;
+    margin-top: 100px;
+    padding-top: 20px;
+    font-weight: 100;
+    
+    
+    
+    
+}
+@media (max-width:768px) {
+    .footer-bar {display: flex;
+    text-align: center;
+    padding: 30px;
+}
+}
